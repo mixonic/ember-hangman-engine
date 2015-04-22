@@ -5,7 +5,7 @@ const PLAYING = () => {};
 const WON = () => {};
 const LOST = () => {};
 
-export default Ember.Service.extend({
+export default Ember.Service.extend(Ember.Evented, {
 
   init() {
     this._state = WAITING;
