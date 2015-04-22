@@ -1,5 +1,5 @@
 {
-  "name": "hangman-engine",
+  "name": "ember-hangman-engine",
   "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mixonic/hangman-engine.git"
+    "url": "https://github.com/mixonic/ember-hangman-engine.git"
   },
   "engines": {
     "node": ">= 0.10.0"
@@ -46,7 +46,7 @@
   },
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/mixonic/hangman-engine/issues"
+    "url": "https://github.com/mixonic/ember-hangman-engine/issues"
   },
-  "homepage": "https://github.com/mixonic/hangman-engine"
+  "homepage": "https://github.com/mixonic/ember-hangman-engine"
 }
